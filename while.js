@@ -1,7 +1,7 @@
-var num =0;
+var number =0;
 
-while(num<=10){
-    console.log('Number')
-console.log(num)
-num++;
+while(number<=15){
+    console.log(number)
+    number++;
+    
 }
